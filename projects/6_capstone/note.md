@@ -2,7 +2,7 @@
 
 * github
 
-https://github.com/harryhare/udacity_data_engineer_capstone_project
+https://github.com/harryhare/udacity_data_engineering_capstone_project
 
 
 因为总是感觉project 中有些东西没说清楚，有没法方便的联系到mentor，发现了一些可以帮助完成 project 方法：

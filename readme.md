@@ -35,5 +35,5 @@ https://github.com/harryhare/udacity_data_engineering_pipeline
 
 *  capstone 在 github 上
 
-https://github.com/harryhare/udacity_data_engineer_capstone_project
+https://github.com/harryhare/udacity_data_engineering_capstone_project
 	
