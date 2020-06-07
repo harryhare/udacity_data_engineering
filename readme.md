@@ -21,9 +21,13 @@
 	
 ## projects
 
-* 3 data warehorse（redshift - postgresql）
+* 1 data model postgres `/projects/1_data_model_postgres`
 
-* 4 data lakes (spark): 在 `/projects/4_spark`
+* 2 data model Cassandra `/projects/2_data_model_cassandra`
+
+* 3 data warehorse（redshift - postgresql）`/projects/3_data_warehouse`
+
+* 4 data lakes (spark): `/projects/4_data_lake`
 	
 	- 尝试在 aws 的 emr 上跑，但是太慢了，所以后面就改为在 workspace 中运行了
 	- 另外aws-emr 上以sql 的方式执行sql 查询会 报错，没有解决
