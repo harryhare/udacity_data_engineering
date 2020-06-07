@@ -31,7 +31,7 @@
 
 * 5 pipeline(airflow)  在 github 上
 
-https://github.com/harryhare/airflow_playground
+https://github.com/harryhare/udacity_data_engineering_pipeline
 
 *  capstone 在 github 上
 
