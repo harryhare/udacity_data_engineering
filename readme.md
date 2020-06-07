@@ -1,20 +1,25 @@
-make public 前 把 projects 中存的密钥清空
+# udacity data engineering nano degree program 笔记
 
+## intro
 
-### 0.
+这个 repo 是 udacity data engineering 课程的笔记
+
+## basics
+
+* 运行 jupyter notebook
 	```bash
 	python -m jupyter notebook
 	```
 
 
-### 1. postgresql
+* 运行 postgresql
 
 	```bash
 	psql -U postgres -p 5434
 	```
 	
 	
-### projects
+## projects
 
 * 3 data warehorse（redshift - postgresql）
 
