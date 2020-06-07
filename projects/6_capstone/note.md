@@ -5,6 +5,12 @@
 https://github.com/harryhare/udacity_data_engineer_capstone_project
 
 
+因为总是感觉project 中有些东西没说清楚，有没法方便的联系到mentor，发现了一些可以帮助完成 project 方法：
+
+* https://knowledge.udacity.com/ 查答案
+
+* github 上搜关键字 , 比如 data engineering 这门课 就可以搜  `oad_songplays_fact_table`
+
 ### pyspark
 
 * doc
